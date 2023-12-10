@@ -1,0 +1,54 @@
+https://zipper.dataspace.copernicus.eu/odata/v1/Products(48e6b7ad-83f1-5a96-9b92-5be7952e99dc)/$value
+Name:
+S2A_MSIL1C_20180611T083601_N0206_R064_T36UYA_20180611T104008.SAFE
+Size:
+< 1MB
+Sensing time:
+2018-06-11T08:36:01.024Z
+Platform short name:
+SENTINEL-2
+Instrument short name:
+MSI
+Product
+Absolute orbit number:
+15505
+Acquisition mode:
+INS-NOBS
+Authority:
+ESA
+Beginning date time:
+2018-06-11T08:36:01.024Z
+Cloud cover:
+0
+Coordinates:
+50.51811370350305,35.82076894501528 50.47036063098581,37.365742763507 49.48562029230301,37.27737038166283 49.53174440621896,35.76354514760137 50.51811370350305,35.82076894501528
+Ending date time:
+2018-06-11T08:36:01.024Z
+HV order tile id:
+UA36Y
+Modification date:
+2018-06-12T06:05:40.245Z
+Orbit direction:
+DESCENDING
+Origin date:
+2018-06-11T15:59:14.405Z
+Processed by:
+ESA
+Processing level:
+S2MSI1C
+Processor version:
+2.06
+Product group id:
+GS2A_20180611T083601_015505_N02.06
+Product type:
+S2MSI1C
+Publication date:
+2018-06-12T06:05:40.245Z
+Relative orbit number:
+64
+S3Path:
+/eodata/Sentinel-2/MSI/L1C/2018/06/11/S2A_MSIL1C_20180611T083601_N0206_R064_T36UYA_20180611T104008.SAFE
+Spatial resolution:
+60
+Tile id:
+36UYA

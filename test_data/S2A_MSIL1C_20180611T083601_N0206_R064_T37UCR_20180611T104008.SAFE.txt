@@ -1,0 +1,55 @@
+https://zipper.dataspace.copernicus.eu/odata/v1/Products(01936382-06f4-587c-b000-9974e7c798e1)/$value
+Summary
+Name:
+S2A_MSIL1C_20180611T083601_N0206_R064_T37UCR_20180611T104008.SAFE
+Size:
+< 1MB
+Sensing time:
+2018-06-11T08:36:01.024Z
+Platform short name:
+SENTINEL-2
+Instrument short name:
+MSI
+Product
+Absolute orbit number:
+15505
+Acquisition mode:
+INS-NOBS
+Authority:
+ESA
+Beginning date time:
+2018-06-11T08:36:01.024Z
+Cloud cover:
+0
+Coordinates:
+50.51810003852152,36.17866751641768 50.545333158635955,37.72692441602994 49.558033952412664,37.75278304383874 49.53173120782476,36.23590271024698 50.51810003852152,36.17866751641768
+Ending date time:
+2018-06-11T08:36:01.024Z
+HV order tile id:
+UR37C
+Modification date:
+2018-06-12T06:12:32.853Z
+Orbit direction:
+DESCENDING
+Origin date:
+2018-06-11T16:36:18.515Z
+Processed by:
+ESA
+Processing level:
+S2MSI1C
+Processor version:
+2.06
+Product group id:
+GS2A_20180611T083601_015505_N02.06
+Product type:
+S2MSI1C
+Publication date:
+2018-06-12T06:12:32.853Z
+Relative orbit number:
+64
+S3Path:
+/eodata/Sentinel-2/MSI/L1C/2018/06/11/S2A_MSIL1C_20180611T083601_N0206_R064_T37UCR_20180611T104008.SAFE
+Spatial resolution:
+60
+Tile id:
+37UCR
