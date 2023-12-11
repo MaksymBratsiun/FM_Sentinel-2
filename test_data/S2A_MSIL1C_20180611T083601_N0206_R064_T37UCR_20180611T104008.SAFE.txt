@@ -1,4 +1,5 @@
 https://zipper.dataspace.copernicus.eu/odata/v1/Products(01936382-06f4-587c-b000-9974e7c798e1)/$value
+https://drive.google.com/drive/folders/1peqWGOMMNJ135B4o9hzpCpwzrYrZhdp2
 Summary
 Name:
 S2A_MSIL1C_20180611T083601_N0206_R064_T37UCR_20180611T104008.SAFE

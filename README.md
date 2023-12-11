@@ -47,6 +47,17 @@ There are test data for test matching and demonstration.
 ```bash
 pip install -r requirements.txt
 ```
+Load from link datasets
+```
+S2A_MSIL1C_20180611T083601_N0206_R064_T36UYA_20180611T104008.SAFE
+https://zipper.dataspace.copernicus.eu/odata/v1/Products(48e6b7ad-83f1-5a96-9b92-5be7952e99dc)/$value
+https://drive.google.com/drive/folders/11Zxi356GqXAzCSZew2_uhLGQzaO8oiQk
+```
+```
+S2A_MSIL1C_20180611T083601_N0206_R064_T37UCR_20180611T104008.SAFE
+https://zipper.dataspace.copernicus.eu/odata/v1/Products(01936382-06f4-587c-b000-9974e7c798e1)/$value
+https://drive.google.com/drive/folders/1peqWGOMMNJ135B4o9hzpCpwzrYrZhdp2
+```
 
 Set path to images and number of matches in script `figure_matching.py`
 ```
