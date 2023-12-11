@@ -66,5 +66,23 @@ Watch result in `output_image.jpg`:
 # Conclusion
 
 Choose SIFT because it better with different light gradient. 
-Use B8A chanel because it was more stable and did not depend on the season and small size.
+Use `B8A` chanel because it was more stable and did not depend on the season and small size and good resolution.
+
+Other channels:
+
+    B1 60 m 443 nm Ultra Blue (coastal and aerosol)
+    B2 10 m 490 nm Blue
+    B3 10 m 560 nm Green
+    B4 10 m 665 nm Red
+    B5 20 m 705 nm Visible and near infrared (VNIR)
+    B6 20 m 740 nm Visible and near infrared (VNIR)
+    B7 20 m 783 nm Visible and near infrared (VNIR)
+    B8 10 m 842 nm Visible and near infrared (VNIR)
+    B8A 20 m 865 nm Visible and near infrared (VNIR)
+    B9 60 m 940 nm Short Wave Infrared (SWIR)
+    B10 60 m 1375 nm Short Wave Infrared (SWIR)
+    B11 20 m 1610 nm Short Wave Infrared (SWIR)
+    B12 20 m 2190 nm Short Wave Infrared (SWIR)
+    TCI 10 m 490, 560, 665 nm True Color Image (BGR) 
+
 Save without compressing for easy validation. Draw first 20 matches.
